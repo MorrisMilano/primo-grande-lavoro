@@ -1,0 +1,64 @@
+body{
+  background-image: url("C:/Users/mzocc/Desktop/corso booleman/corso sito/background.jpg8.jpg");
+  background-position: right;
+  /* background-image: url("C:/Users/mzocc/Desktop/corso booleman/corso sito/background9.jpg"); */
+  width: 1000px;
+  display: inline-block;
+  padding: 30px;
+
+  }
+
+header {
+  text-align: center;
+}
+main{
+  text-align: center;
+  background-color: lawngreen;
+  font-size: 40px;
+
+}
+  .conteiner {
+    width: 1000px;
+    height:700px;
+    border: 50px;
+    margin: 20px;
+    padding: 60px;
+    background-color: rgba(00,00,00,0.5);
+    border-radius: 15px;
+    background-position:right;
+
+  }
+.logo {
+  width: 150px;
+
+}
+
+h1{
+  color: lawngreen;
+
+}
+
+section{
+  color: white;
+
+}
+
+.mike{
+  width: 400px;
+  background-color: limegreen;
+  border-radius: 5px
+
+}
+
+.gino{
+  width: 100px;
+  background-color: orange;
+  border-radius: 5px;
+
+}
+
+.fede{
+  width: 150px;
+  background-color: lightcoral;
+  border-radius: 5px;
+}
